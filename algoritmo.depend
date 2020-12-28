@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1609128528 source:c:\users\victor\desktop\heuristicav2\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<cmath>
+
+1592425723 c:\users\victor\desktop\heuristicav2\resource.h
+
+1592427081 source:c:\users\victor\desktop\heuristicav2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
